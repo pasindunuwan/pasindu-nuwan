@@ -596,7 +596,7 @@ div {
         .home{
             height: 100vh;
             background-image:url("./Background-Phone.jpg");
-            background-size: cover;
+            background-size: 78%;
             background-position: right;
         
         }
